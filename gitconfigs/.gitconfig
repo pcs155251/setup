@@ -1,0 +1,6 @@
+[includeIf "gitdir:~/others/"]
+path = ~/others/.gitconfig-others
+
+[includeIf "gitdir:~/work/"]
+path = ~/work/.gitconfig-work
+
